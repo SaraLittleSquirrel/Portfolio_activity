@@ -14,7 +14,7 @@ The repository follows a directory structure that separates portfolio activities
 - **Chapter 02**
   - **Portfolio Activities:** Solutions and documentation for portfolio assignments in Chapter 02.
 
-(Continue this structure for each chapter in the course.)
+(and so on for each chapter in the course.)
 
 ## Getting Started
 To consult this repository for reference:
